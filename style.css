@@ -1,0 +1,74 @@
+* {
+    
+    font-size:30px;
+    -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+    
+    background:#41C8E6;
+    color:white !important; 
+    text-decoration:none !important;
+    text-shadow:none !important;
+    
+}
+
+
+a {
+    text-decoration:none;
+    text-shadow:none;
+    color:white; !important 
+    
+}
+
+table {
+  width:100%;
+         padding:0;
+    margin:0;
+    border-spacing:0;
+    border-collapse:collapse;
+    border:2px solid black;
+}
+
+th {
+    border:2px solid black;
+    height:50px;
+    color:black !important;
+}
+
+td {
+  width:20%;
+  height:100px;
+  text-align:center; 
+  vertical-align:middle;
+  border:2px solid black;
+  overflow:hidden;
+    padding:0;
+    margin:0;
+    
+    
+}
+
+td a {
+  display:inline-block;
+  margin: -10em;
+  padding: 10em;
+}
+
+#qPage {
+ height:100%;
+}
+
+#question {
+   
+    display:inline-block;
+    width:100%;
+  height:100%;
+  text-align:center; 
+  vertical-align:middle;
+    padding-top:200px;
+    
+   
+    
+    
+}
